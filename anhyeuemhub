@@ -1,0 +1,6 @@
+Config = {
+    namescript='anhdepzaihub'
+    logoscript ='131999716101083'
+    tacgia='hello'
+}
+loadstring(game:HttpGet"https://raw.githubusercontent.com/xQuartyx/DonateMe/main/ScriptLoader")()
